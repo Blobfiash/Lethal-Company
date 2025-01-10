@@ -1,4 +1,4 @@
- ﻿using GameNetcodeStuff;
+﻿using GameNetcodeStuff;
 using SpectralWave.Modules.Misc;
 using SpectralWave.Modules.Player;
 using SpectralWave.Modules.Utill;
